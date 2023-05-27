@@ -1,0 +1,492 @@
+[
+  {
+    "id": "30978",
+    "name": "Aboru",
+    "state_id": "2671"
+  },
+  {
+    "id": "30979",
+    "name": "Abule-Egba",
+    "state_id": "2671"
+  },
+  {
+    "id": "30980",
+    "name": "Abule-Oja",
+    "state_id": "2671"
+  },
+  {
+    "id": "30981",
+    "name": "Abule-Okuta",
+    "state_id": "2671"
+  },
+  {
+    "id": "30982",
+    "name": "Adekunle",
+    "state_id": "2671"
+  },
+  {
+    "id": "30983",
+    "name": "Adeniran",
+    "state_id": "2671"
+  },
+  {
+    "id": "30984",
+    "name": "Adeniyi Jones",
+    "state_id": "2671"
+  },
+  {
+    "id": "30985",
+    "name": "Ado",
+    "state_id": "2671"
+  },
+  {
+    "id": "30986",
+    "name": "Afolabi",
+    "state_id": "2671"
+  },
+  {
+    "id": "30987",
+    "name": "Aga",
+    "state_id": "2671"
+  },
+  {
+    "id": "48315",
+    "name": "Agarawu",
+    "state_id": "2671"
+  },
+  {
+    "id": "48316",
+    "name": "Agbado",
+    "state_id": "2671"
+  },
+  {
+    "id": "48317",
+    "name": "Agbala",
+    "state_id": "2671"
+  },
+  {
+    "id": "48318",
+    "name": "Agbotikuyo",
+    "state_id": "2671"
+  },
+  {
+    "id": "48319",
+    "name": "Agbowa",
+    "state_id": "2671"
+  },
+  {
+    "id": "48320",
+    "name": "Agbowa Ikosi",
+    "state_id": "2671"
+  },
+  {
+    "id": "48321",
+    "name": "Agboyi 1",
+    "state_id": "2671"
+  },
+  {
+    "id": "48322",
+    "name": "Agidi",
+    "state_id": "2671"
+  },
+  {
+    "id": "48323",
+    "name": "Agidingbi",
+    "state_id": "2671"
+  },
+  {
+    "id": "48324",
+    "name": "Agiliti",
+    "state_id": "2671"
+  },
+  {
+    "id": "48325",
+    "name": "Ago Hausa",
+    "state_id": "2671"
+  },
+  {
+    "id": "48326",
+    "name": "Ago Owu",
+    "state_id": "2671"
+  },
+  {
+    "id": "48327",
+    "name": "Agodo",
+    "state_id": "2671"
+  },
+  {
+    "id": "48328",
+    "name": "Aguda/Ogba",
+    "state_id": "2671"
+  },
+  {
+    "id": "48329",
+    "name": "Aguda/Surulere",
+    "state_id": "2671"
+  },
+  {
+    "id": "48330",
+    "name": "Agura/Iponmi",
+    "state_id": "2671"
+  },
+  {
+    "id": "48331",
+    "name": "Airport/Onipetesi/Onilekere",
+    "state_id": "2671"
+  },
+  {
+    "id": "48332",
+    "name": "Ajaganabe",
+    "state_id": "2671"
+  },
+  {
+    "id": "48333",
+    "name": "Ajah",
+    "state_id": "2671"
+  },
+  {
+    "id": "48334",
+    "name": "Ajao Estate",
+    "state_id": "2671"
+  },
+  {
+    "id": "48335",
+    "name": "Ajao Estate",
+    "state_id": "2671"
+  },
+  {
+    "id": "48336",
+    "name": "Ajara",
+    "state_id": "2671"
+  },
+  {
+    "id": "48337",
+    "name": "Ajegunle/Akinde",
+    "state_id": "2671"
+  },
+  {
+    "id": "48338",
+    "name": "Ajelogo",
+    "state_id": "2671"
+  },
+  {
+    "id": "48339",
+    "name": "Ajido",
+    "state_id": "2671"
+  },
+  {
+    "id": "48340",
+    "name": "Akanimodo",
+    "state_id": "2671"
+  },
+  {
+    "id": "48341",
+    "name": "Akesan",
+    "state_id": "2671"
+  },
+  {
+    "id": "48342",
+    "name": "Akinhanki/Cole",
+    "state_id": "2671"
+  },
+  {
+    "id": "48343",
+    "name": "Akoka",
+    "state_id": "2671"
+  },
+  {
+    "id": "48344",
+    "name": "Akowonjo",
+    "state_id": "2671"
+  },
+  {
+    "id": "48345",
+    "name": "Alaba Oro",
+    "state_id": "2671"
+  },
+  {
+    "id": "48346",
+    "name": "Alade",
+    "state_id": "2671"
+  },
+  {
+    "id": "48347",
+    "name": "Alagbado",
+    "state_id": "2671"
+  },
+  {
+    "id": "48348",
+    "name": "Alagomeji",
+    "state_id": "2671"
+  },
+  {
+    "id": "48349",
+    "name": "Alakara",
+    "state_id": "2671"
+  },
+  {
+    "id": "48350",
+    "name": "Alakuko",
+    "state_id": "2671"
+  },
+  {
+    "id": "48351",
+    "name": "Alapere",
+    "state_id": "2671"
+  },
+  { "id": "48454", "name": "Alasia", "state_id": "2671" },
+  { "id": "48455", "name": "Alasia/Ojo", "state_id": "2671" },
+  { "id": "48456", "name": "Alausa", "state_id": "2671" },
+  { "id": "48457", "name": "Alimosho", "state_id": "2671" },
+  { "id": "48458", "name": "Amuwo", "state_id": "2671" },
+  { "id": "48459", "name": "Anifowoshe", "state_id": "2671" },
+  { "id": "48460", "name": "Anikantamo", "state_id": "2671" },
+  { "id": "48461", "name": "Animashaun", "state_id": "2671" },
+  { "id": "48462", "name": "Apelehin", "state_id": "2671" },
+  { "id": "48463", "name": "Arolu", "state_id": "2671" },
+  { "id": "48464", "name": "Atewolara", "state_id": "2671" },
+  { "id": "48465", "name": "Augustin", "state_id": "2671" },
+  { "id": "48466", "name": "Awhanjigoh", "state_id": "2671" },
+  { "id": "48467", "name": "Awodi-Ora", "state_id": "2671" },
+  { "id": "48468", "name": "Ayobo/Ijon Village", "state_id": "2671" },
+  {
+    "id": "48469",
+    "name": "Babalosa",
+    "state_id": "2671"
+  },
+  {
+    "id": "48470",
+    "name": "Baiyeku",
+    "state_id": "2671"
+  },
+  {
+    "id": "48471",
+    "name": "Bajulaiye",
+    "state_id": "2671"
+  },
+  {
+    "id": "48472",
+    "name": "Bariga",
+    "state_id": "2671"
+  },
+  {
+    "id": "48473",
+    "name": "Baya-Oje",
+    "state_id": "2671"
+  },
+  {
+    "id": "48474",
+    "name": "Bedore",
+    "state_id": "2671"
+  },
+  {
+    "id": "48475",
+    "name": "Coker",
+    "state_id": "2671"
+  },
+  {
+    "id": "48476",
+    "name": "Darocha",
+    "state_id": "2671"
+  },
+  {
+    "id": "48477",
+    "name": "Dopemu",
+    "state_id": "2671"
+  },
+  {
+    "id": "48478",
+    "name": "Ebode",
+    "state_id": "2671"
+  },
+  {
+    "id": "48479",
+    "name": "Ebute",
+    "state_id": "2671"
+  },
+  {
+    "id": "48480",
+    "name": "Ebute Metta",
+    "state_id": "2671"
+  },
+  {
+    "id": "48481",
+    "name": "Egan",
+    "state_id": "2671"
+  },
+  {
+    "id": "48482",
+    "name": "Egbe",
+    "state_id": "2671"
+  },
+  {
+    "id": "48483",
+    "name": "Egbeda",
+    "state_id": "2671"
+  },
+  {
+    "id": "48484",
+    "name": "Eiyekole",
+    "state_id": "2671"
+  },
+  {
+    "id": "48485",
+    "name": "Ejigbo Town",
+    "state_id": "2671"
+  },
+  {
+    "id": "48486",
+    "name": "Ejirin",
+    "state_id": "2671"
+  },
+  {
+    "id": "48487",
+    "name": "Elegbata",
+    "state_id": "2671"
+  },
+  {
+    "id": "48488",
+    "name": "Epetedo",
+    "state_id": "2671"
+  },
+  {
+    "id": "48489",
+    "name": "Eric Moore",
+    "state_id": "2671"
+  },
+  {
+    "id": "48490",
+    "name": "Erikorodu",
+    "state_id": "2671"
+  },
+  {
+    "id": "48491",
+    "name": "Eti-Osa",
+    "state_id": "2671"
+  },
+  {
+    "id": "48492",
+    "name": "Etita",
+    "state_id": "2671"
+  },
+  {
+    "id": "48493",
+    "name": "Fagba/Akute",
+    "state_id": "2671"
+  },
+  {
+    "id": "48494",
+    "name": "Festac Town",
+    "state_id": "2671"
+  },
+  {
+    "id": "48495",
+    "name": "Fola Agoro",
+    "state_id": "2671"
+  },
+  {
+    "id": "48496",
+    "name": "Gambari",
+    "state_id": "2671"
+  },
+  {
+    "id": "48497",
+    "name": "Gaskiya",
+    "state_id": "2671"
+  },
+  {
+    "id": "48498",
+    "name": "Gbagada Phase 1",
+    "state_id": "2671"
+  },
+  {
+    "id": "48499",
+    "name": "Gbagado Phase II",
+    "state_id": "2671"
+  },
+  {
+    "id": "48500",
+    "name": "Glover",
+    "state_id": "2671"
+  },
+  {
+    "id": "48501",
+    "name": "Ibeju",
+    "state_id": "2671"
+  },
+  {
+    "id": "48502",
+    "name": "Ibereko",
+    "state_id": "2671"
+  },
+  {
+    "id": "48503",
+    "name": "Ibeshe",
+    "state_id": "2671"
+  },
+  {
+    "id": "48504",
+    "name": "Ibonwon",
+    "state_id": "2671"
+  },
+  {
+    "id": "48505",
+    "name": "Idi-Araba",
+    "state_id": "2671"
+  },
+  {
+    "id": "48506",
+    "name": "Idimangoro",
+    "state_id": "2671"
+  },
+  {
+    "id": "48507",
+    "name": "Idimu",
+    "state_id": "2671"
+  },
+  {
+    "id": "48508",
+    "name": "Idumota/Oke",
+    "state_id": "2671"
+  },
+  {
+    "id": "48509",
+    "name": "Iduntafa",
+    "state_id": "2671"
+  },
+  {
+    "id": "48510",
+    "name": "Ifako",
+    "state_id": "2671"
+  },
+  {
+    "id": "48511",
+    "name": "Ifako/Soluyi",
+    "state_id": "2671"
+  },
+  {
+    "id": "48512",
+    "name": "Igando",
+    "state_id": "2671"
+  },
+  {
+    "id": "48513",
+    "name": "Iganmu",
+    "state_id": "2671"
+  },
+  {
+    "id": "48514",
+    "name": "Igbaga",
+    "state_id": "2671"
+  },
+  {
+    "id": "48515",
+    "name": "Igbaja",
+    "state_id": "2671"
+  },
+  {
+    "id": "48516",
+    "name": "Igbari-Akoka",
+    "state_id": "2671"
+  }
+]
